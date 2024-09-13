@@ -6,7 +6,7 @@ console.clear();
 
 const baseUrl = 'https://livejs-api.hexschool.io/api/livejs/v1/admin';
 const api_path = 'ryanc3';
-const token = 'fXbJD8QPSDgFLF1EMhtt2cuar8G2';
+const token = '';
 const header = {
   headers: {
     Authorization: token,
